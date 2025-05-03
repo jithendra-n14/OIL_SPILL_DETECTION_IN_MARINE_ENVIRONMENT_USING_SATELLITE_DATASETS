@@ -1,0 +1,10 @@
+cupy
+google-api-python-client
+joblib
+matplotlib
+numpy
+opencv-python
+scikit-learn
+scikit-image
+tensorflow
+torch
